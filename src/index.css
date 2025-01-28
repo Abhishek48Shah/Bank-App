@@ -1,0 +1,15 @@
+
+@import "tailwindcss";
+
+.montserrat-heading {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .montserrat-body {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;  /* Regular weight for body text */
+    font-style: normal;
+  }
